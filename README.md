@@ -9,3 +9,10 @@ link: https://app.flutterflow.io/share/actividad3-0pw3qk
 
 actividad 6 tapbar 
 link: https://app.flutterflow.io/project/act6-xw3j13
+
+actividad 7
+https://app.flutterflow.io/project/act7-s0inmt
+avtividad 8
+https://app.flutterflow.io/project/act8-amycky
+actividad 9
+https://app.flutterflow.io/project/act9-z9nkvn
